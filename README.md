@@ -5,7 +5,7 @@
 Задания:
 1 (+)
 2 [(+)](https://github.com/mrlentics/BOS_2/blob/main/.gitignore)
-3
+3 (+)
 4
 5
 6
